@@ -1,2 +1,2 @@
 # TSDS_ICTP
-Theoretical and Scientific Data Science
+Theoretical and Scientific Data Science Course
